@@ -28,8 +28,8 @@ header {
     width: 40%;
     min-width: 50px;
     background-color: white;
-    float: right;
     display: inline-block;
+    margin-left: 500px;
 }
 
 .l1{
