@@ -119,14 +119,14 @@ section {
     background-color: blue;
     margin-left: 20%;
     padding-top: 10px;
+
 }
-.g{
+ .g{
     width: 10%;
     height: 30px;
     background-color: white;
-    text-align: center;
-    margin-left: 350px;
-    border-radius: 4px;
+    padding: 3px;
+    
 
 }
 
