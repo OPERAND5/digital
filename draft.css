@@ -121,15 +121,10 @@ section {
     padding-top: 10px;
 
 }
- .g{
-    width: 10%;
-    height: 30px;
-    background-color: white;
-    padding: 3px;
-    
 
+.buttton1{
+    margin-left: 10px;
 }
-
 .features {
     background-color: red;
     padding-top: 10vh;
@@ -175,7 +170,7 @@ section {
     background-size: cover;
     /* margin-left: 10%; */
     margin-right: 2%;
-display: inline-block;
+    display: inline-block;
 
 }
 .t4{
@@ -230,42 +225,30 @@ display: inline-block;
     margin-left: 57px;
 
 }
-.small{
-    width: 20%;
-    height: 20px;
-    background-color: antiquewhite;
-}
-.ri{
-    float: right;
-    width:45% ;
-    height:60vh ;
-    background-image: url(assets/images/sustainability.jpg);
-    background-repeat: no-repeat;
+.character1 {
+
+    width: 45%;
+    height: 60vh;
+    background-image: url(assets/images/sustainability.jpg); 
+    background-size: cover; 
     background-size: cover;
     display: inline-block;
-    margin-right: 57px;
-}
+    margin-left: 57px;
 
-.signUp {
+}
+.signUp{
     width: 100%;
-    height: 25px;
+    height: 59vh;
     background-image: url(assets/images/signup.jpg);
-    background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 30vh;
+    background-size: cover;
+    
 }
 
-.login {
-    width: 60%;
-    height: 40vh;
-    background-color: white;
-    margin-left: 20%;
-}
-
-.socials {
-    background-color: gray;
-    padding-top: 10vh;
-
+.socials{
+    width: 100%;
+    height: 50vh;
+    background-color: blue;
 }
 .p8{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -275,37 +258,39 @@ display: inline-block;
 }
 
 .account {
-    width: 74%;
+    width: 85%;
     height: 80vh;
-    background-color: white;
-    margin-left: 13%;
+    background-color: blue;
+    margin-left: 7%;
+    display: flex;
+    justify-content: space-evenly;
 }
 .acc1{
-    width: 32.5%;
+    width: 30%;
     height: 50vh;
     background-image:url(assets/images/watering.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 2px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .acc2{
-    width: 32.5%;
+    width: 30%;
     height: 50vh;
     background-image: url(assets/images/shy.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 2px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .acc3{
-    width: 32.5%;
+    width: 30%;
     height: 50vh;
     background-image: url(assets/images/coffee.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 2px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .footer {
     width: 100%;
