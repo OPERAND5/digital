@@ -122,7 +122,9 @@ section {
 
 }
 
-.buttton1{
+.button1{
+    width: 120px;
+    height: 10px;
     margin-left: 10px;
 }
 .features {
@@ -220,7 +222,6 @@ section {
     height: 60vh;
     background-image: url(assets/images/about.jpg); 
     background-size: cover; 
-    background-size: cover;
     display: inline-block;
     margin-left: 57px;
 
